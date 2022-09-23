@@ -50,11 +50,11 @@ switch(choice)
     cout<<"\nPlease select the category of the room as given"<<endl;
     cout<<"1. Luxury rooom-9,999 rs & 48 sq.m"<<endl;
     cout<<"Features:- Jacuzzi, Luxury furniture & bedding, 60 inch LED, wifi, personal maid, 24*7 room service, mini beer fridge"<<endl<<" local tour service, access to pool area, buffet(7 PM to 10 PM)"<<endl;
-    cout<<"2. Semi- luxury room-5,999 rs & 36 sq.m"<<endl;
+    cout<<"\n2. Semi- luxury room-5,999 rs & 36 sq.m"<<endl;
     cout<<"Features:- wifi, premium furniture & bedding, 24*7 room service, 40 inch LED, access to pool area, 1 hour access to game zone per day"<<endl;
-    cout<<"3. Normal room-2,499 rs & 30 sq.m"<<endl;
+    cout<<"\n3. Normal room-2,499 rs & 30 sq.m"<<endl;
     cout<<"Features:- 40 inch LED, normal furniture and bedding, wifi, room service not available form 1 AM to 5 Am"<<endl;
-    cout<<"4. Exit"<<endl;
+    cout<<"\n4. Exit"<<endl;
 
     cout<<"\nPlease enter your choice"<<endl;
     cin>>choice;
